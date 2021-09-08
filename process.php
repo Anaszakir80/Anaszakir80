@@ -76,6 +76,6 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
     $data['text'] = 'Your message has been sent successfully';
     
     // return all our data to an AJAX call
-    header('Location: https://360authors.com/thankyou');
+    header('Location: https://digisourcein.ezyro.com/thankyou');
     exit();
 }
