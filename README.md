@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anaszakir80
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in App development/Web App Development/Full Stack Development and CMS Development   
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me Fint me social media or freelancing platform like upwork
 
